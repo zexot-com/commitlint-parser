@@ -1,3 +1,3 @@
-module github.com/conventionalcommit/parser
+module github.com/zexot-com/commitlint-parser
 
-go 1.17
+go 1.23
