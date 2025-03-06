@@ -2,7 +2,7 @@
 
 A go parser for [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) messages
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/conventionalcommit/parser)](https://pkg.go.dev/github.com/conventionalcommit/parser)![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/conventionalcommit/parser)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/zexot-com/commitlint-parser)](https://pkg.go.dev/github.com/zexot-com/commitlint-parser)![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/zexot-com/commitlint-parser)
 
 ### Usage
 
@@ -57,4 +57,4 @@ This parser is inspired and forked from
 
 ### License
 
-[MIT License](https://github.com/conventionalcommit/parser/tree/master/LICENSE.md)
+[MIT License](https://github.com/zexot-com/parser/tree/master/LICENSE.md)
