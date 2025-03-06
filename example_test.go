@@ -3,7 +3,7 @@ package parser_test
 import (
 	"fmt"
 
-	"github.com/conventionalcommit/parser"
+	"github.com/zexot-com/commitlint-parser"
 )
 
 func ExampleParser() {
