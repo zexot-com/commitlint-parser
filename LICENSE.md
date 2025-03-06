@@ -1,7 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2021 Muthu Krishnan
-Copyright (c) 2021 Matthew Bamber, Rene Zbinden, Brandon Buck
+Copyright (c) 2025 Zexot.com, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
